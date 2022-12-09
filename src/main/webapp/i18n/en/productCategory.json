@@ -1,0 +1,11 @@
+{
+  "singleUnitApp": {
+    "ProductCategory": {
+      "null": "",
+      "FOOD": "FOOD",
+      "CHEMICALS": "CHEMICALS",
+      "MEDICINE": "MEDICINE",
+      "OTHER": "OTHER"
+    }
+  }
+}
